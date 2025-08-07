@@ -50,8 +50,8 @@ No customer demographic data is included.
 External factors (e.g., holidays, weather, promotions) are not accounted for.
 
 📄 Project Files
-📘 View SQL Script: Data Cleaning + Business Queries[Walmart_analysis.sql]
-📊 View Power BI Dashboard :[Walmart_dashboard.pbix]
+📘 [View SQL Script]: Data Cleaning + Business Queries(Walmart_analysis.sql)
+📊 [View Power BI Dashboard] :(Walmart_dashboard.pbix)
 
 👤 Author
 Name: Aditya Singh
