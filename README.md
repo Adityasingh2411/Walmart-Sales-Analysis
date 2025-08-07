@@ -16,8 +16,6 @@ Note: Dataset is used for learning and portfolio purposes.
 🛠️ Process Overview
 Data Cleaning (MySQL):
 Removed inconsistencies, handled nulls, and standardized formats.
-Data Modeling:
-Structured data into relevant tables for better querying and performance.
 Business Questions:
 Wrote SQL queries to extract insights for sales trends, peak periods, customer behavior, etc.
 Power BI Dashboard:
@@ -29,7 +27,6 @@ Which branch and product category has the highest average ratings?
 What are the busiest days for each branch?
 What is the average, minimum, and maximum rating by category and city?
 Which payment method is most common in each branch?
-
 ...and more!
 
 📈 Key Findings
@@ -49,9 +46,6 @@ Dataset is static and limited to a short time frame.
 No customer demographic data is included.
 External factors (e.g., holidays, weather, promotions) are not accounted for.
 
-📄 Project Files
-📘 [View SQL Script]: Data Cleaning + Business Queries(Walmart_analysis.sql)
-📊 [View Power BI Dashboard] :(Walmart_dashboard.pbix)
 
 👤 Author
 Name: Aditya Singh
