@@ -1,6 +1,6 @@
 # 🛒 Walmart Sales Data Analysis Project
 
-📌 Project Objective
+📌 Project Objective -
 Analyze Walmart retail sales data to uncover key business insights such as sales trends, customer behavior, and performance by product, branch, and payment method. The goal is to support data-driven decisions in inventory, marketing, and operations.
 
 🧰 Tools & Technologies Used
